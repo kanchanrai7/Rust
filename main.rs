@@ -1,3 +1,5 @@
+//Guess the number Game in Rust
+
 use colored::*;
 use rand::Rng;
 use std::cmp::Ordering;
